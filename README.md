@@ -1,2 +1,2 @@
 # CS-546-Web-Programming-1
-Stevens Institute of Technology CS-546 course assignments.
+This repository contains soultions to CS-546 Web Programming course of Stevens Institute of Technology. 
